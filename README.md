@@ -20,8 +20,9 @@ O objetivo é criar um ambiente estruturado para automação de tarefas acadêmi
 | unit_admin        | Lucas Gabriel             | Admin / UNIT_admin           |
 | unit_dados        | Arthur Lucas              | Gestor de dados / UNIT_dados |
 | unit_ui           | Gizelly Montes            | UX / UNIT_ui                 |
-| unit_automacao    | Marcos Vinicius           | Flow Des / UNIT_automacao    |
-| unit_seguranca   | Clara Tavares              | Analista de seguranca / UNIT_seguranca     |
+| unit_automacao    | Marcos Vinicius           | Flow Designer / UNIT_automacao    |
+| unit_seguranca    | Clara Tavares             | Analista de seguranca / UNIT_seguranca     |
+| unit_relatorios   | Elias Ferreira           |  Analista de relatorio / UNIT_relatorios     |
 
 ---
 
