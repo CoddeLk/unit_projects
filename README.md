@@ -18,9 +18,10 @@ O objetivo é criar um ambiente estruturado para automação de tarefas acadêmi
 | Usuário           | Nome completo              | Role Git/ServiceNow           |
 | ----------------- | ------------------------- | ---------------------------- |
 | unit_admin        | Lucas Gabriel             | Admin / UNIT_admin           |
-| unit_dados        | Ana Silva                 | Gestor de dados / UNIT_user  |
-| unit_dev          | João Souza                | Desenvolvedor / UNIT_dev     |
-| unit_tester       | Maria Oliveira            | QA / UNIT_tester             |
+| unit_dados        | Arthur Lucas              | Gestor de dados / UNIT_dados |
+| unit_ui           | Gizelly Montes            | UX / UNIT_ui                 |
+| unit_automacao    | Marcos Vinicius           | Flow Des / UNIT_automacao    |
+| unit_seguranca   | Clara Tavares              | Analista de seguranca / UNIT_seguranca     |
 
 ---
 
